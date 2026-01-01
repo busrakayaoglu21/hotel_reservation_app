@@ -62,8 +62,5 @@ Replace config files and update lib/main.dart if needed
 Running the App
 flutter run
 
-demo user: test@demo.com
-demo password: 123456
-
 
 Test on Android or iOS emulator or a real device.
